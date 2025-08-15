@@ -1,0 +1,10 @@
+🔑 Password Strength Checker
+Enter password to analyze: P@ssw0rd123
+
+--- Analysis Report ---
+✅ Length: Strong
+✅ Complexity: All criteria met
+🔐 Entropy: Good (~78 bits)
+
+--- Breach Check ---
+⚠️ This password appears in 3 known breaches!
